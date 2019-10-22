@@ -101,7 +101,7 @@ To use this role add this to your playbook:
     - hosts: servers
       become: true
       roles:
-         - { role: dblenkus.postfix-aws }
+         - { role: genialis.postfix-aws }
 
 License
 -------
