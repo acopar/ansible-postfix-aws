@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: postfix-aws
   author: Domen Blenkuš
   description: Configure Postfix to send emails through Amazon SES service.
   license: GPLv3
